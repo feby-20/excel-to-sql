@@ -1,4 +1,4 @@
-# Excel to SQL
+# Excel to SQL (for check kolom, dan type kolom)
 
 ## Setup
 
